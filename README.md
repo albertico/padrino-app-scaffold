@@ -54,5 +54,5 @@ Please refer to [LICENSE.md](https://github.com/albertico/padrino-app-scaffold/b
 >**Alberto A. Colón Viera**
 >
 > Contact via:
-> - [Email](aacv@alberti.co) / [Gmail](alberto.a.colon.viera@gmail.com)
+> - [Email](mailto:aacv@alberti.co) / [Gmail](mailto:alberto.a.colon.viera@gmail.com)
 > - [Twitter](https://twitter.com/alberti_co)
