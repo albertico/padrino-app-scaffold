@@ -1,7 +1,7 @@
 body {
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #ffffff;
+  background-color: #eee;
 }
 
 .form-signin {
@@ -17,6 +17,7 @@ body {
 
 .form-signin .checkbox {
   font-weight: normal;
+  padding-left: 20px;
 }
 
 .form-signin .form-control {
