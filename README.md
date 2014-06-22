@@ -11,17 +11,26 @@ Developed using:
 
 ## Controllers and Views
 
-- `/login`
+### /login
 
   Sample login form.
 
-- `/app`
+  ![login](screenshots/login.png "/login")
+
+### /app
 
   Sample application page with list menu.
 
-- `/app/offcanvas`
+  ![app-default](screenshots/app-default.png "/app")
+  ![app-default-responsive](screenshots/app-default-responsive.png "/app")
+
+### /app/offcanvas
 
   Sample application page using _offcanvas_ list menu.
+
+  ![app-offcanvas](screenshots/app-offcanvas.png "/app/offcanvas")
+  ![app-offcanvas-responsive](screenshots/app-offcanvas-responsive.png "/app/offcanvas")
+  ![app-offcanvas-responsive-menu](screenshots/app-offcanvas-responsive-menu.png "/app/offcanvas")
 
 ## Install
 
